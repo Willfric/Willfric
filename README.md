@@ -2,7 +2,7 @@
 <h3 align="center">Discord API Developer & Cryptography Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wllifric&label=Profile%20views&color=0e75b6&style=flat" alt="ItzXynx" />
+  <img src="https://komarev.com/ghpvc/?username=Willfric&label=Profile%20views&color=0e75b6&style=flat" alt="Willfric" />
   <img src="https://img.shields.io/badge/Discord-API-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord API" />
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cryptography-Merkle%20%26%20More-238636?style=flat" alt="Cryptography" />
@@ -14,7 +14,7 @@ I dig deep into Discord's internals — reverse engineering APIs, building bots,
 </p>
 
 <p align="left">
-Projects: <a href="https://github.com/ItzXynx" target="_blank" rel="noreferrer">GitHub</a>
+Projects: <a href="https://github.com/Willfric" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 
 <h3 align="center">Discord Activity</h3>
@@ -33,7 +33,7 @@ Projects: <a href="https://github.com/ItzXynx" target="_blank" rel="noreferrer">
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=ItzXynx&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=Willfric&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
   </a>
 </p>
 
