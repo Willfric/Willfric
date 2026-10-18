@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://views-counter.vercel.app/badge?pageId=Willfric%2FWillfric&label=Profile%20views" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Discord-API-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord API" />
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cryptography-Merkle%20%26%20More-238636?style=flat" alt="Cryptography" />
@@ -29,11 +32,4 @@ Projects: <a href="https://github.com/Willfric" target="_blank" rel="noreferrer"
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,mysql,git,vscode,linux&theme=dark&perline=10" alt="Python, JavaScript, TypeScript, HTML, CSS, Node.js, MySQL, Git, VS Code, Linux" />
-</p>
-
-<h3 align="center">Statistics</h3>
-
-<p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" width="32%" alt="Top languages" />
 </p>
