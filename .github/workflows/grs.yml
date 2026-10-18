@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=ItzXynx&layout=compact&theme=tokyonight&bg_color=30,0d1117,1a1b27,2d1b69&title_color=70a5fd&text_color=c9d1d9&hide_border=true&langs_count=8
+          options: username=Willfric&layout=compact&theme=tokyonight&bg_color=30,0d1117,1a1b27,2d1b69&title_color=70a5fd&text_color=c9d1d9&hide_border=true&langs_count=8
           path: profile/wakatime.svg
           token: ${{ secrets.PAT }}
 
