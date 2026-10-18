@@ -2,7 +2,7 @@
 <h3 align="center">Discord API Developer & Cryptography Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Willfric&label=Profile%20views&color=0e75b6&style=flat" alt="Willfric" />
+  <img src="https://komarev.com/ghpvc/?username=Willfric&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="Profile views" />
   <img src="https://img.shields.io/badge/Discord-API-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord API" />
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cryptography-Merkle%20%26%20More-238636?style=flat" alt="Cryptography" />
