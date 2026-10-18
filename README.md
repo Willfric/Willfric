@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/Willfric">
-  <img src="https://komarev.com/ghpvc/?username=Willfric&style=flat-square"
-       alt="Profile views">
-</a> src="https://img.shields.io/badge/Discord-API-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord API" />
+    <img src="https://count.getloli.com/@Willfric?name=Willfric&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
+         alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-API-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord API" />
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Cryptography-Merkle%20%26%20More-238636?style=flat" alt="Cryptography" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat" alt="Open Source" />
@@ -23,21 +24,25 @@ Projects: <a href="https://github.com/Willfric" target="_blank" rel="noreferrer"
 
 <p align="center">
   <a href="https://discord.com/users/291920595481001986">
-    <img src="https://lanyard.cnrad.dev/api/291920595481001986?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably%20coding" alt="Discord Activity" />
+    <img src="https://lanyard.cnrad.dev/api/291920595481001986?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=probably%20coding"
+         alt="Discord Activity" />
   </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,mysql,git,vscode,linux&theme=dark&perline=10" alt="Python, JavaScript, TypeScript, HTML, CSS, Node.js, MySQL, Git, VS Code, Linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,mysql,git,vscode,linux&theme=dark&perline=10"
+       alt="Python, JavaScript, TypeScript, HTML, CSS, Node.js, MySQL, Git, VS Code, Linux" />
 </p>
 
 <h3 align="center">Statistics</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=Willfric&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=Willfric&theme=tokyonight&no-frame=true&row=1&column=6"
+         width="100%"
+         alt="GitHub trophies" />
   </a>
 </p>
 
